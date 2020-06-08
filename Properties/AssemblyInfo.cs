@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Ht3v1App")]
+[assembly: AssemblyTitle("Ht3v2App")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Ht3v1App")]
+[assembly: AssemblyProduct("Ht3v2App")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -19,7 +19,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("29293DF6-857D-458E-807C-94394DE9012C")]
+[assembly: Guid("ECC102E4-8D2B-4EE1-ADB5-42DB0BE36EA4")]
 
 // Version information for an assembly consists of the following four values:
 //
